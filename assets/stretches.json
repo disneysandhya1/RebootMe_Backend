@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neck Stretch",
+    "description": "Slowly tilt your head to the side, hold for 15 seconds.",
+    "duration": "15s"
+  },
+  {
+    "name": "Shoulder Rolls",
+    "description": "Roll your shoulders forward and backward.",
+    "duration": "30s"
+  },
+  {
+    "name": "Wrist Stretch",
+    "description": "Extend your arm and pull your fingers back gently.",
+    "duration": "15s"
+  }
+]
